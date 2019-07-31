@@ -1,5 +1,4 @@
 [
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/wind_from_the_depths.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/auriels_ascencion.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/glory_of_cyrodiil.ogg"},
 {"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/harvest_down.ogg"},
