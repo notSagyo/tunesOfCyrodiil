@@ -1,0 +1,27 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/wind_from_the_depths.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/auriels_ascencion.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/glory_of_cyrodiil.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/harvest_down.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/through_the_valleys.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/king_and_country.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/unmarked_stone.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/minstrels_lament.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/peace_of_akatosh.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/wings_of_kynareth.ogg"},
+
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/defending_the_gate.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/deep_waters.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/death_knell"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/fall_of_the_hammer.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wings_of_kynareth.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/alls_wells.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/churls_revenge.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/glory_of_cyrodiil.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/harvest_down.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/king_and_country.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/through_the_valleys.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/unmarked_stone.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/watchmans_ease.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/reign_of_the_septims.ogg"}
+]

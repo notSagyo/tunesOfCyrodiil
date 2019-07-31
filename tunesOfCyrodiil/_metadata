@@ -1,0 +1,10 @@
+{
+  "author" : "Sagyo",
+  "description" : "Adds background music from the game \"The Elder Scrolls IV: Oblivion\" to the game, does not replace the vanilla's BGM.\n\nThere are 26 beatiful songs by Jeremy Soule in total: \n- Reign of the Septims\n- Through the Valleys\n- Death Knell\n- Harvest Dawn\n- Wind from the Depths\n- King and Country\n- Fall of the Hammer\n- Wings of Kynareth\n- Alls Well\n- Tension\n- March of the Marauders\n- Watchman's Ease\n- Glory of Cyrodiil\n- Defending the Gate\n- Bloody Blades\n- Minstrel's Lament\n- Ancient Sorrow\n- Auriel's Ascension\n- Daedra in Flight\n- Unmarked Stone\n- Bloodlust\n- Sunrise of Flutes\n- Churl's Revenge\n- Deep Waters\n- Dusk at the Market\n- Peace of Akatosh\n\nThe music will only play on planets generated after installing the mod.\nIf you unistall the mod, planets generated with it, will not play any music if any of these were supposed to play.",
+  "friendlyName" : "Tunes of Cyrodiil",
+  "link" : "steam://url/CommunityFilePage/1821213859",
+  "name" : "tunesOfCyrodiil",
+  "steamContentId" : "1821213859",
+  "tags" : "Musical Instruments and Songs",
+  "version" : "1"
+}
