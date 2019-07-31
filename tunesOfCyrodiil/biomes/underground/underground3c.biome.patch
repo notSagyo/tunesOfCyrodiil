@@ -1,0 +1,14 @@
+[
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/ancient_sorrow.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/bloodlust.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/dusk_at_the_market.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/tension.ogg"},
+{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/wind_from_the_depths.ogg"},
+
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ancient_sorrow.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/bloodlust.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/dusk_at_the_market.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/tension.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ancient_sorrow.ogg"},
+{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wind_from_the_depths.ogg"}
+]
