@@ -1,9 +1,0 @@
-[
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/ancient_sorrow.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/wind_from_the_depths.ogg"},
-{"op":"add", "path":"/musicTrack/night/tracks/-", "value":"/music/peace_of_akatosh.ogg"},
-
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/ancient_sorrow.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/wind_from_the_depths.ogg"},
-{"op":"add", "path":"/musicTrack/day/tracks/-", "value":"/music/peace_of_akatosh.ogg"}
-]
